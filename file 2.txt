@@ -1,0 +1,173 @@
+  ----(9) Address Tag Code ----
+
+
+ <!Doctype html>
+<html>
+  <head>
+    <title>Address Tag</title>
+  </head>
+  <body>
+    <Address>
+      <p>
+        <h1>Address Tag</h1>
+        <b>1E'Gopal Sub Street</b><br>
+           Vilapakkam<br>
+           Arcot Taluk<br>
+           Ranipet District - 632521<br>
+      </p>
+    </Address>
+    
+  </body>
+</html>
+
+
+
+
+  ----(10) Delete, Insert & Strikeout Tags ----
+
+ <!Doctype html>
+<html>
+  <head>
+    <title>Delete, Insert & Strikeout Tags </title>
+  </head>
+  <body>
+    <h1>Delete, Insert & Strikeout Tags </h1>
+    <p>
+      I plan to Buy a <del>samsung</del> / <ins>dell monitor</ins><br><br>
+      I'm willing to pay <s>12k</s> / 15k rupees 
+    </p>
+  </body>
+</html>
+
+     
+
+      ----(11) Images ( to open image folder next seperate image will show copy path to paste code ) ----
+
+  <!Doctype html>
+<html>
+  <head>
+    <title>Brothers</title>
+  </head>
+
+  <body>
+    <h1>Brothers</h1>
+    <img src="C:\Users\Akash\Pictures\sathish\sathish\candid photo\0L9A8983.JPG" alt="Marriagepic" title="AkashJustin and Sathish"
+    width="300" height="500">
+  </body>
+</html>
+
+
+     ----(12) Figure & Figcaption (image blackborder center photo description code)----
+
+ <!Doctype html>
+<html>
+  <head>
+    <title>Ourfamilypic</title>
+  </head>
+  <body>
+     <h1>Ourfamilypic</h1>
+     <p
+       align="center">
+       <img src="C:\Users\Akash\Pictures\sathish\sathish\candid photo\0L9A9014.JPG"
+       alt="familyphoto"
+       title="ourfamilypic"
+       width="500" height="400"
+       align="center"
+       border="5"
+       >
+     </p>
+     <p align="center">ourfamilpic</p>
+  </body>
+</html>
+
+
+
+      ----(13) Basic Links (a href is a link address || target="_blank" is go to next url to show our vedio) ----
+
+ <!Doctype html>
+<html>
+  <head>
+    <title>Youtube</title>
+  </head>
+  <body>
+    <h1>Youtube</h1>
+    <p> <a href="https://youtu.be/4T7HwLGNiuw" target="_blank"> Animation Vedio </a> to watch everykids </p>
+  </body>
+</html>
+
+
+
+      -----(14)  Email Links (visit only desktop email code)------
+
+ <!Doctype html>
+<html>
+  <head>
+    <title>Emaillimks</title>
+  </head>
+  <body>
+    <h1>Email links<h1>
+    <p>My Email id is <a href="mailto:iamkameshsk12@gmail.com">own email</a></p>
+    <p> <a href="mailto:iamakashsk12@gmail.com">Contact me</a> If you have any question !</p>
+  </body>
+</html>
+
+
+   -----(15) Named Anchors (name click panna athulaa irrukaruthulaa varum back to top koodutha melaaa pogum)-----
+
+ <!Doctype html>
+<html>
+  <head>
+    <title>Named Anchors</title>
+  </head>
+  <body>
+    <h1 id="top">Named Anchors and Places to Visit in Chennai</h1>
+    <p>
+      <a href="#Chennai">chennai</a><br>
+      <a href="#Mumbai">mumbai</a><br>
+      <a href="#Kolkata">kolkata</a><br>
+      <a href="#Rajasthan">rajasthan</a><br>
+      <a href="#Punjab">punjab</a><br>
+      <a href="#Puna">puna</a><br>
+   </p>
+
+   <h2 id="chennai">chennai</h2>
+   <p>
+     (/ˈtʃɛnaɪ/ (listen), Tamil: [ˈt͡ɕenːaɪ̯]), formerly known as Madras,[A] is the capital city of Tamil Nadu, the southernmost Indian state. It is the state's primate city both in area and population and is located on the Coromandel Coast of the Bay of Bengal. According to the 2011 Indian census, Chennai is the sixth-most populous city in India and forms the fourth-most populous urban agglomeration. The Greater Chennai Corporation is the civic body responsible for the city; it is the oldest city corporation of India, established in 1688—the second oldest in the world after London.
+   </p>
+   <p> <a href="#top">Back to Top</a></p>
+
+   <h2 id="Mumbai">mumbai</h2>
+   <p>
+     (English: /mʊmˈbaɪ/ (listen), Marathi: [ˈmumbəi]; also known as Bombay /bɒmˈbeɪ/— the official name until 1995) is the capital city of the Indian state of Maharashtra. Mumbai is the de facto financial centre and the most populous city of India with an estimated city proper population of 12.5 million (1.25 crore).[17] Mumbai is the centre of the Mumbai Metropolitan Region, the sixth most populous metropolitan area in the world with a population of over 23 million (2.3 crore) living under the Brihanmumbai Municipal Corporation.[18] Mumbai lies on the Konkan coast on the west coast of India and has a deep natural harbour. In 2008, Mumbai was named an alpha world city.[19][20]
+   </p>
+   <p> <a href="#top">Back to Top</a></p>
+
+   <h2 id="Kolkata">kolkata</h2>
+   <p>
+      (UK: /kɒlˈkɑːtə/[11] or /kɒlˈkʌtə/,[12] US: /koʊlˈkɑːtɑː/,[13] Bengali: [kolˈkata] (listen); also known as Calcutta /kælˈkʌtə/[12][13] which was the official name until 2001) is the capital of the Indian state of West Bengal. It is on the eastern bank of the Hooghly River 80 km (50 mi) west of the border with Bangladesh. It is the primary business, commercial, and financial hub of Eastern India and the main port of communication for North-East India.[14] According to the 2011 Indian census, Kolkata is the seventh-most populous city in India, with a population of 45 lakh (4.5 million) residents within the city. It is a part of Kolkata Metropolitan Area (or known as Greater Kolkata) which has a population of over 1.41 crore (14.1 million) residents making it the third-most populous metropolitan area in India. In 2021, the Kolkata metropolitan area crossed 1.5 crore (15 million) registered voters. The Port of
+   </p>
+   <p> <a href="#top">Back to Top</a></p>
+
+   <h2 id="Rajasthan">rajasthan</h2>
+   <p>
+     The state was formed on 30 March 1949 when Rajputana – the name adopted by the British Raj for its dependencies in the region[16] – was merged into the Dominion of India. Its capital and largest city is Jaipur. Other important cities are Jodhpur, Kota, Bikaner, Ajmer, Bharatpur and Udaipur. The economy of Rajasthan is the seventh-largest state economy in India with ₹10.20 lakh crore (US$130 billion) in gross domestic product and a per capita GDP of ₹118,000 (US$1,500).[17] Rajasthan ranks 29th among Indian states in human development index.[7]
+   </p>
+   <p> <a href="#top">Back to Top</a></p>
+
+   <h2 id="Punjab">punjab</h2>
+   <p>
+     Punjab grew out of the settlements along the five rivers, which served as an important route to the Near East as early as the ancient Indus Valley civilization, dating back to 3000 BCE,[3] and had numerous migrations by the Indo-Aryan peoples. Agriculture has been the major economic feature of the Punjab and has therefore formed the foundation of Punjabi culture, with one's social status being determined by land ownership.[3] The Punjab emerged as an important agricultural region, especially following the Green Revolution during the mid-1960s to the mid-1970s, and has been described as the "breadbasket of both India and Pakistan."[3]
+   </p>
+   <p> <a href="#top">Back to Top</a></p>
+
+   <h2 id="Puna">puna</h2>
+   <p>
+     Pune has historically been a major cultural centre, with important figures like Dnyaneshwar, Tukaram, Mahatma Jyotirao Phule, Savitribai Phule, Gopal Ganesh Agarkar, Tarabai Shinde, Dhondo Keshav Karve, and Pandita Ramabai doing their life's work in Pune City or in an area that falls in Pune Metropolitan Region. Pune was a major centre of resistance to British Raj, with people like Gopal Krishna Gokhale and Bal Gangadhar Tilak playing leading roles in struggle for Indian independence in their times
+ .  </p>
+   <p> <a href="#top">Back to Top</a></p>
+  </body>
+</html>
+
+
+
+
